@@ -3,3 +3,5 @@ SpeechRecognition
 PyDub
 matplotlib
 scikit-learn
+keras
+tensorflow
